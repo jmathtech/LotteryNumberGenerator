@@ -1,8 +1,8 @@
-# ============ Power Ball Number Generator ===========
+# ============ Lottery Number Generator ===========
 
 from random import shuffle
 
-# Range of numbers for the five Power Ball numbers from 1 - 69
+# Range of numbers for the five whiteball numbers from 1 - 69
 # This will auto-generate five of those numbers.
 
 lottery = list(range(1, 69))
@@ -11,9 +11,9 @@ numbers = []
 num = []
 
 # Title
-print("POWER BALL NUMBERS")
+print("THE LOTTERY NUMBERS")
 
-# For loop to append (sort) the five Power Ball numbers selected above
+# For loop to append (sort) the five whiteball numbers selected above
 for i in range(5):
     shuffle(lottery)
     x = lottery.pop()
@@ -28,7 +28,7 @@ for i in range(5):
 numbers.sort()
 print("Today is your lucky day, my friend! The numbers are: ", numbers)
 
-# For loop to append (sort) the red Power Ball number
+# For loop to append (sort) the red ball number
 for j in range(1):
     shuffle(powerball)
     y = powerball.pop()
@@ -39,6 +39,6 @@ for j in range(1):
         powerball = list(range(1, 26))
     num.append(y)
 
-# Displays the final (sixth) Power Ball number
+# Displays the red ball number
 num.sort()
-print('POWER BALL number is: ', num)
+print('red ball number is: ', num)
