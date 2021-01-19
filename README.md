@@ -1,7 +1,7 @@
 # Lottery Number Generator
-A 'lucky number' generator for the Powerball Lottery game in the U.S. Good luck!
-The Powerball numbers are selected with a range of 1-69 for the five white ball numbers and a range of 1-26 for the red Powerball number. 
-This program will select random numbers and put them in order to play on a Powerball playslip.
+A 'lucky number' generator for a lottery game in the U.S. Good luck!
+The lottery numbers are selected with a range of 1-69 for the five white ball numbers and a range of 1-26 for the red ball number. 
+This program will select random numbers and put them in order to play on a lotto playslip.
 
 
 ## How to use the program
