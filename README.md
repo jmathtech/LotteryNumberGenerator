@@ -7,9 +7,9 @@ This program will select random numbers and put them in order to play on a lotto
 ## How to use the program
 Download the .ZIP file from this repository and extract it. Then, run the main.py in a terminal window with this command
 
-```bash
+`code
 sudo sh ./main.py
-```
+`
 
 or an IDE program like Pycharm, etc to run this python script.
 
@@ -17,10 +17,13 @@ or an IDE program like Pycharm, etc to run this python script.
 ## How to play
 Choose any of the selected numbers from the python program and go to the store to play those numbers on the lottery playslip. 
 
-``` python
+`code
 # NOTE: This number generator is NOT a way to actually win the lottery. 
 # However, I programmed this python program to select numbers that haven't been selected
 # within the script so that the combination sequence will change frequently and won't choose the same numbers for you.
 # This program has been built for entertainment purposes only and NOT a way to 'hack' the lottery system. 
 # Play responsible and GOOD LUCK! :)
-```
+`
+
+# License 
+This 
