@@ -41,4 +41,4 @@ for j in range(1):
 
 # Displays the red ball number
 num.sort()
-print('red ball number is: ', num)
+print('Red ball number is: ', num)
