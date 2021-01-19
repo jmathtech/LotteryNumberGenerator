@@ -1,0 +1,7 @@
+##### Requirements with specifiers #######
+
+pip 20.3.3
+random2 1.0.1
+shuffle 0.9
+
+############### END ######################
