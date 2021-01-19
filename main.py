@@ -13,7 +13,7 @@ num = []
 # Title
 print("THE LOTTERY NUMBERS")
 
-# For loop to append (sort) the five whiteball numbers selected above
+# For loop to append (sort) the five whiteball numbers selected from the range list above
 for i in range(5):
     shuffle(lottery)
     x = lottery.pop()
