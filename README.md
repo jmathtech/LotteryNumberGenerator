@@ -26,4 +26,4 @@ Choose any of the selected numbers from the python program and go to the store t
 ```
 
 ## License 
-This script is under the [MIT License](https://github.com/jmathtech/LotteryNumberGenerator/blob/master/LICENSE)
+This script is under the [MIT License](https://github.com/jmathtech/LotteryNumberGenerator/blob/master/LICENSE).
